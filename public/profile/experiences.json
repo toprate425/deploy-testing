@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": "Blockchain/Etherum/Solidity Expert",
+            "subtitle": "https://alethea.ai/",
+            "workType": "Freelance",
+            "workDescription": [
+                "DAPP development and interact with Ethereum blockchain platform.",
+                "Familiar with developing Ethereum smart contracts written in Solidity.",
+                "Assisted senior bankers with management of capital markets transactions.",
+                "Effectively multi-tasked and worked well with internal and external teams."
+            ],
+            "dateText": "10/2020 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "CO-WELL Asia",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Major integrations within the app were back-end apis with authentication, google maps plugin, google places api and payment gateway integration",
+                "Was also responsible for reeasing the apps in PlayStore and App store and post-lanch fixes."
+            ],
+            "dateText": "02/2019 – 05/2020"
+        },
+        {
+            "title": "FullStack Developer",
+            "subtitle": "Upwork Inc",
+            "workType": "Part-time and Full-time",
+            "workDescription": [
+                "Worked on B2B SaaS just like https://www.salesforce.com/"
+            ],
+            "dateText": "11/2015 – 08/2018"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "telegram",
+            "href": "https://t.me/nagai425"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/toprate425"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:email-to@gmail.com"
+        },
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        }
+    ]
+}
