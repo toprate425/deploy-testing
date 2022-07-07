@@ -1,0 +1,200 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/nft.png",
+            "title": "SuperKluster",
+            "bodyText": "Voxel X Network is a decentralized, community-driven gaming ecosystem where creators can share and monetize NFT assets and create gaming experiences on the Ethereum blockchain.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/voxelx_marketplace"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.ustimesnow.com/always-innovating-voxel-x-brings-hyper-tech-superkluster-io-nft-marketplace-to-market/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node",
+                "Express",
+                "Postgre",
+                "AntDesign",
+                "AWS",
+                "NFT marketplace",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/common.png",
+            "title": "Common Living",
+            "bodyText": "Coliving and apartments for today's renter. Find beautiul spaces with exceptional service, convenient amenities, and all-inclusive options. At Common, your rent gets you more.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/react-dev26/Common-React"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.common.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Next",
+                "SCSS",
+                "HerorKu",
+                "Bootstrap",
+                "Webpack",
+                "MariaDB"
+            ]
+        },
+        {
+            "image" : "images/projects/credit.png",
+            "title": "Credit Capital",
+            "bodyText": "CreditCapital is a wealth management platform created to bridge the gap between traditional investment networks and blockchain-powered platforms. Its aim is to make mutual investing and personal lending easier and more profitable for participants.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/QuietHours"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://creditcapital.io/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Express",
+                "Vue",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring.png",
+            "title": "Caaring -  Cab Share App",
+            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/Caaring"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://caaring.herokuapp.com"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        },
+        {
+            "image" : "images/projects/chatApp.png",
+            "title": "CometChat Kitchen Sample App",
+            "bodyText": "CometChat Kitchen Sink Sample App (built using CometChat UI Kit) is a fully functional real-time messaging app capable of private (one-on-one), group messaging, voice & video calling.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/javascript-react-chat-app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Javascript",
+                "HTML",
+                "Comet UI Kit",
+                "SCSS"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Quiet Hours App",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/QuietHours"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Alarm Manager",
+                "VIT"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/MVVM-APP"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/Feeds-List"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/task-tracker"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/toprate425/img-encrypt"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}
