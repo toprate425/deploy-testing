@@ -10,27 +10,32 @@
                 "Assisted senior bankers with management of capital markets transactions.",
                 "Effectively multi-tasked and worked well with internal and external teams."
             ],
-            "dateText": "10/2020 – Present"
+            "dateText": "03/2021 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "CO-WELL Asia",
-            "workType": "Internship",
+            "title": "Full Stack Developer",
+            "subtitle": "TopTech Informatics KK ",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Major integrations within the app were back-end apis with authentication, google maps plugin, google places api and payment gateway integration",
-                "Was also responsible for reeasing the apps in PlayStore and App store and post-lanch fixes."
+                "Experienced with MERN stack development and in-depth knowledge of UI designs using complex concepts in enhancing user's experience and website performance",
+                "Applied emerging technologies to update and maintain site applicability",
+                "Designed, implemented and monitored web pages, plugins and functionality for continuous improvement",
+                "Developed 5 web apps using pre-made user interface frameworks such as Material UI ( MUI ) and Bootstrap",
+                "Implemented Google-based SEO and ad campaigns to meet budget specifications."
             ],
-            "dateText": "02/2019 – 05/2020"
+            "dateText": "05/2018 – 02/2021"
         },
         {
-            "title": "FullStack Developer",
-            "subtitle": "Upwork Inc",
+            "title": "MERN Stack Developer",
+            "subtitle": "CO-WELL Asia",
             "workType": "Part-time and Full-time",
             "workDescription": [
-                "Worked on B2B SaaS just like https://www.salesforce.com/"
+                "Designed REST calls using ERact to streamline user interface performance.",
+                "Created mobile applications based on React, integrating Facebook's best practices for interface design",
+                "Updated old code bases to modern development standards, improving functionality",
+                "Collaborated with project manaers to select ambitious, but realistic coding milestones on pre-release software project development"
             ],
-            "dateText": "11/2015 – 08/2018"
+            "dateText": "06/2015 – 04/2018"
         }
     ]
 }
