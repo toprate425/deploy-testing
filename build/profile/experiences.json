@@ -1,41 +1,70 @@
 {
     "experiences": [
         {
-            "title": "Blockchain/Etherum/Solidity Expert",
-            "subtitle": "https://alethea.ai/",
-            "workType": "Freelance",
+            "title": "Senior Full Stack Developer",
+            "subtitle": "Canibuild",
+            "workType": "Full Remote Wroking",
             "workDescription": [
-                "DAPP development and interact with Ethereum blockchain platform.",
-                "Familiar with developing Ethereum smart contracts written in Solidity.",
-                "Assisted senior bankers with management of capital markets transactions.",
-                "Effectively multi-tasked and worked well with internal and external teams."
+                "Built an enterprise SaaS application using Express.js and React.",
+                "Architected and developed a purely hook-based React front-end application.",
+                "Built RESTful APIs using Express.js, Redis, and TypeORM.",
+                "Integrated proper Gitflow and CI/CD processes using GitLab and AWS.",
+                "Took part in regular meetups with the team and occasional meetings with stakeholders and clients to demonstrate the project and get feedback.",
+                "Built and maintained a reusable React component library.",
+                "Participated in peer code reviews and mentored junior developers.",
+                "Introduced Prettier and ESLint to ensure code quality across all team members."
             ],
-            "dateText": "03/2021 – Present"
+            "dateText": "12/2021 – 07/2022"
         },
         {
-            "title": "Full Stack Developer",
-            "subtitle": "TopTech Informatics KK ",
+            "title": "Blockchain Architect and Engineer",
+            "subtitle": "Earnbase Finance",
+            "workType": "Full Remote Wroking",
+            "workDescription": [
+                "Contributed to the development of Earnbase, an Ethereum-based project that aims to simplify blockchain and decentralized finance technology for mass adoption.",
+                "Launched the $ENB token with initial liquidity mining application and on-chain/off-chain governance.",
+                "Assisted senior bankers with management of capital markets transactions.",
+                "Played a role as a multi-signature member to manage and execute important transactions for the protocol."
+            ],
+            "dateText": "01/2021 – 11/2021"
+        },
+        {
+            "title": "Full Stack Developer & Data visualization",
+            "subtitle": "Agnoris",
+            "workType": "Part-time",
+            "workDescription": [
+                "Created several React components with D3 charts that support interactive visualizations of market data projections and analysis.",
+                "Implemented client-side data transformations to map, filter, reduce, etc. large datasets for display in interactive SVG charts.",
+                "Created dynamically populated data filters as dropdowns, checkbox groups, input fields, sliders, etc. in order to evaluate and pivot market data analysis charts.",
+                "Refactored very large front-end application code to make it more modular and reusable",
+                "Consistently achieved 100% compliance with industry best practices."
+            ],
+            "dateText": "02/2017 – 10/2021"
+        },
+        {
+            "title": "Front-End Web Developer",
+            "subtitle": "Eggs Media ",
             "workType": "Full-time",
             "workDescription": [
-                "Experienced with MERN stack development and in-depth knowledge of UI designs using complex concepts in enhancing user's experience and website performance",
-                "Applied emerging technologies to update and maintain site applicability",
-                "Designed, implemented and monitored web pages, plugins and functionality for continuous improvement",
-                "Developed 5 web apps using pre-made user interface frameworks such as Material UI ( MUI ) and Bootstrap",
-                "Implemented Google-based SEO and ad campaigns to meet budget specifications."
+                "Developed several web applications using React to monetize from free traffic.",
+                "Created an elegant and user-friendly multi-step form using React.",
+                "Wrote unit test code using Jest and integrated it into the CI/CD process.",
+                "Integrated with the WordPress back end to produce documents in PDF and DOCx format.",
+                "Integrated Stripe Connect and checkout API to accept the subscription and one-time checkout."
             ],
-            "dateText": "05/2018 – 02/2021"
+            "dateText": "04/2017 – 01/2018"
         },
         {
-            "title": "MERN Stack Developer",
-            "subtitle": "CO-WELL Asia",
+            "title": "Front-End Developer",
+            "subtitle": "ZINation",
             "workType": "Part-time and Full-time",
             "workDescription": [
-                "Designed REST calls using ERact to streamline user interface performance.",
-                "Created mobile applications based on React, integrating Facebook's best practices for interface design",
-                "Updated old code bases to modern development standards, improving functionality",
-                "Collaborated with project manaers to select ambitious, but realistic coding milestones on pre-release software project development"
+                "Built a utility web application using React and Firebase.",
+                "Created fully responsive web pages using Material-UI.",
+                "Integrated a Shopify API to create invoices automatically into a printable format using cloud functions of Firebase.",
+                "Utilized linting tools to ensure code quality and followed industry standards."
             ],
-            "dateText": "06/2015 – 04/2018"
+            "dateText": "02/2016 – 04/2017"
         }
     ]
 }

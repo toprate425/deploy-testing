@@ -2,7 +2,8 @@
     "logo" : {
         "source": "images/mylogo.jpg",
         "height" : 45,
-        "width" : 50
+        "width" : 50,
+        "borderRadius" : 25
     },
     "sections": [
         {
@@ -31,7 +32,7 @@
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/1teouGSzwh_Ng6dbktsjMoIxptZPflXLS/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1sqjIdNM8Mwp1BC3oUj7ytkSHniEIaM1d/view",
             "type": "link"
         }
     ]

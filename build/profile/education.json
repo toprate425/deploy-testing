@@ -1,12 +1,13 @@
 {
     "education":[
         {
-            "title": "09 2011 - 11 2015",
-            "cardTitle": "Teikyo University of Science and Technology",
-            "cardSubtitle":"2-11-1 Kaga, Itabashi-ku, Tokyo"
+            "title": "09 2013 - 06 2015",
+            "cardTitle": "Carleton University",
+            "cardSubtitle":"1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada",
+            "cardDetailedText": "https://carleton.ca"
         },
         {
-            "title": "04 2009 - 08 2011",
+            "title": "04 2005 - 03 2011",
             "cardTitle": "Fukuoka Daiichi High School",
             "cardSubtitle":"22-1 Tamagawamachi, Minami Ward Fukuoka Prefecture, Kyushu, 815-0037 Japan",
             "cardDetailedText": "Website: f.f-parama.ed.jp"
